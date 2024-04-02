@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Performance-Analysis/sum_vector.cpp
+algorithm
+-
+chrono
+-
+iomanip
+-
+iostream
+-
+random
+-
+vector
+-
+string.h
+-
+

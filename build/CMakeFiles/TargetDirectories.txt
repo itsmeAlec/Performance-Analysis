@@ -1,0 +1,6 @@
+/home/student/Performance-Analysis/build/CMakeFiles/rebuild_cache.dir
+/home/student/Performance-Analysis/build/CMakeFiles/edit_cache.dir
+/home/student/Performance-Analysis/build/CMakeFiles/sum_indirect.dir
+/home/student/Performance-Analysis/build/CMakeFiles/sum_vector.dir
+/home/student/Performance-Analysis/build/CMakeFiles/sum_direct.dir
+/home/student/Performance-Analysis/build/CMakeFiles/benchmark.dir
