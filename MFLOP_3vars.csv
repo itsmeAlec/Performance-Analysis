@@ -1,0 +1,10 @@
+# author: alec nagal
+#data for use with the plot_3vars.py file
+# this is in seconds
+Problem Size,late direct,late indirect,late vector
+8388608,0.01,0.01,0.01
+16777216,0.01,0.02,0.01
+33554432,0.03,0.04,0.03
+67108864,0.05,0.17,0.06
+134217728,0.09,0.10,0.11
+268435456,0.18,0.22,0.15
